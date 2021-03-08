@@ -1,0 +1,2 @@
+# practical-haskell
+This repository is purely for educational purposes, following the examples and the project being covered in Alejandro Serrano Mesa's 2019 book, Practical Haskell: A Real World Guide to Programming.
