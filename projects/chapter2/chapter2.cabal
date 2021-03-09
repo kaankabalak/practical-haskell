@@ -54,6 +54,7 @@ extra-source-files:  CHANGELOG.md
 library
   -- Modules exported by the library.
   exposed-modules:     MyLib
+                       Chapter2.Section2.Example
 
   -- Modules included in this library but not exported.
   -- other-modules:
